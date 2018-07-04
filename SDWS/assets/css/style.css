@@ -1624,14 +1624,48 @@ a.active:after {
       font-family: "Raleway", sans-serif;
       font-weight: 600;
       font-style: normal;
-      font-size: 16px;
+      font-size: 15px;
       vertical-align: middle;
       text-decoration: none;
       text-transform: uppercase;
       cursor: pointer; }
-      .sidebar-left .nav-sideleft li:hover {
+       .sidebar-left .nav-sideleft li:hover {
         background-color: #fff;
         color: #0069D9; }
+       
+        /* left side bar menu link */ 
+   
+      .sidebar-left .nav-sideleft li a {
+          color: #fff;
+          text-decoration: none; }
+
+          .sidebar-left .nav-sideleft li a .active {
+            background-color: #fff;
+            /* position: relative; */
+            color: #0069D9; }
+
+            /* .sidebar-left .nav-sideleft il a .active:before {
+              content: '';
+              width: 3px;
+              height: 100%;
+              position: absolute;
+              left: 0;
+              top: 0;
+              background-color: #0069D9; }
+            .sidebar-left .nav-sideleft il a .active:after {
+              content: '';
+              width: 0;
+              height: 0;
+              border-top: 12px solid transparent;
+              border-left: 16px solid #0069D9;
+              border-bottom: 12px solid transparent;
+              position: absolute;
+              left: 0;
+              top: 15px; } */
+
+          .sidebar-left .nav-sideleft li a:hover {
+            background-color: #fff;
+            color: #0069D9; }  
 
 @media screen and (max-width: 767px) {
   .sidebar-left {
@@ -1897,3 +1931,44 @@ a.active:after {
   font-weight: 600; }
 
 /*# sourceMappingURL=style.css.map */
+
+/* new sizebar */
+
+/*
+ sidebar
+*/
+.sidebar-title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  font-size: 1.1rem; }
+
+.categories li {
+  vertical-align: middle; }
+  .categories li > ul {
+    padding-left: 15px; }
+    .categories li > ul > li > a {
+      font-weight: 300; }
+  .categories li a {
+    color: #999;
+    position: relative;
+    display: block;
+    padding: 5px 10px;
+    border-bottom: 1px solid #000; }
+    .categories li a:before {
+      content: "\f0da";
+      font-family: 'FontAwesome';
+      margin-right: 5px; }
+    .categories li a:hover {
+      color: #444;
+      background-color: #f5f5f5; }
+
+.categories > li.active > a {
+  font-weight: 600;
+  color: #444; }
+
+ /* horizontal line / divider */
+hr.style13 {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
