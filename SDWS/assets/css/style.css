@@ -2591,3 +2591,30 @@ section.pricing {
     opacity: 1;
   }
 }
+/* .lastest-new .lastest-blog .card-blog-lastest .title p */
+
+.weapon .heading h2 {
+  font-size: 25px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #222;
+}
+.weapon .title p{
+  line-height: 22px;
+    color: #76777a;
+    position: relative;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.weapon-content .weapon-title h2 {
+  font-size: 25px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  color: #000;
+}
