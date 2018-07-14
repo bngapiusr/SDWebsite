@@ -1587,6 +1587,8 @@ html {
       .banner-background .banner-content .banner-heading h2 {
         color: #fff; }
 
+/* portfolio  */
+
 .portfolio-content h1 {
   font-weight: 600;
   font-size: 3em;
@@ -1629,6 +1631,13 @@ html {
       text-transform: uppercase;
       color: #222; }
 
+      .portfolio-content .program-gallery-heading h2 {
+        font-size: 25px;
+        font-family: "Raleway", sans-serif;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #222; }
+
   .portfolio-content .filter-gallery {
     display: -webkit-flex;
     display: -ms-flex;
@@ -1650,6 +1659,8 @@ html {
     .portfolio-content .list-filter.active {
       background-color: #fff; }
 
+
+/* Contact form */
 .contact-form .heading {
   padding-bottom: 3em; }
 
@@ -1906,6 +1917,16 @@ html {
 
     .lastest-new .heading h2 {
       font-size: 50px;
+      font-family: "Raleway", sans-serif;
+      font-weight: 600;
+      text-transform: uppercase;
+      color: #222; }
+
+      .lastest-new .program-heading {
+        padding-bottom: 3em; }
+
+    .lastest-new .program-heading h2 {
+      font-size: 25px;
       font-family: "Raleway", sans-serif;
       font-weight: 600;
       text-transform: uppercase;
