@@ -720,6 +720,25 @@ html {
       font-family: "Raleway", sans-serif;
       width: 200px; }
 
+      .parallax-banner .donation-detail {
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap; }
+
+      .parallax-banner .donation-detail .donation {
+        color: #fff;
+        text-align: left;
+        font-size: 18px;
+        font-weight: 600;
+        font-style: normal;
+        font-family: "Raleway", sans-serif;
+        line-height: 22px;
+        letter-spacing: 2px;
+        width: 500px; 
+      margin: 1em 0 0 0;}
+
   .parallax-banner .btn-outline {
     margin-top: 2em;
     border-color: #fff;
@@ -1128,6 +1147,8 @@ html {
         background-color: #fff;
         color: #0069D9; }
 
+
+
 .testimonial-Slider {
   background-color: #0069D9;
   padding: 2em 0; }
@@ -1199,7 +1220,7 @@ html {
     transform: translateY(-50%); }
 
   .testimonial-content .testimonial:before {
-    content: '\201C';
+    /* content: '\201C';  remove quotes*/
     display: block;
     font-size: 150px;
     line-height: 0;
