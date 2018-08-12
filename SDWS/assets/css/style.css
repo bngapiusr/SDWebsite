@@ -2716,3 +2716,31 @@ section.pricing {
   margin:0 10px 0 0;
   background: #f5f5f5;
 }
+
+/* Welcome To TRMA */
+.wel-trma-img{
+  width:150px;
+  height: 150px; 
+}
+
+/* history trma */
+.history-trma-cont-img-left{
+  margin:10px 10px 10px 0;
+}
+.history-trma-cont-img-right{
+  margin: 0 10px 0 0;
+}
+.history-trma-cont-heading{
+  margin: 35px 0 10px 0;
+}
+.history-trma-content img{
+  width:150px;
+  height: 150px; 
+}
+.history-trma-title{
+  margin:5px 0 0 15px;
+}
+.history-trma-title h3,h4{
+  margin:0 0 10px 0;
+}
+
