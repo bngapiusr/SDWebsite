@@ -2694,7 +2694,7 @@ section.pricing {
 
 }
 
-/* Add caption */
+/* Add caption 
 .img .with-caption {
   display: inline-block;
   background: #f5f5f5;
@@ -2716,7 +2716,7 @@ section.pricing {
   margin:0 10px 0 0;
   background: #f5f5f5;
 }
-
+*/
 /* Welcome To TRMA */
 .wel-trma-img{
   width:150px;
@@ -2744,3 +2744,27 @@ section.pricing {
   margin:0 0 10px 0;
 }
 
+/* community outreach */
+.community-outreach{
+  margin:10px 0 10px 0;
+}
+
+/* primary instructor */
+.primary-instructor-top{
+  margin:10px 0 0 0;
+}
+.primary-instructor-top-left{
+  margin:10px 0 0 35px;
+}
+.primary-instructor-board ul{
+ list-style-type: none;
+}
+.primary-instructor-board h3{
+  margin: 0 0 10px 0;
+ }
+ .primary-instructor-branch-header{
+  margin: 35px 0 0 35px;
+ }
+ .primary-instructor-branch h3{
+  margin: 0 0 10px 0;
+ }
