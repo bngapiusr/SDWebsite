@@ -2730,6 +2730,9 @@ section.pricing {
 .history-trma-cont-img-right{
   margin: 0 10px 0 0;
 }
+.history-trma-cont-img{
+  margin: 0 0 10px 10px;
+}
 .history-trma-cont-heading{
   margin: 35px 0 10px 0;
 }
