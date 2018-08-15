@@ -2768,3 +2768,50 @@ section.pricing {
  .primary-instructor-branch h3{
   margin: 0 0 10px 0;
  }
+
+ /* start tkd */
+.starttkd ul{
+  list-style-type: none;
+}
+/* resource-tenets */
+.res-tenets h3{
+  margin: 10px 0 10px 0;
+}
+/*resource-terminology */
+.res-terminology h3{
+  margin: 10px 0 10px 0;
+}
+
+/* martial spirit*/
+.martialspirit-margin {
+  margin: 35px 0 10px 0;
+} 
+
+/* location */
+.location-testing {
+  margin: 10px 0 0 0;
+} 
+
+/* contact */
+.location-contact {
+  margin: 10px 10px 0 0;
+} 
+.location-contact h3{
+  margin: 0 0 10px 0;
+} 
+.location-contact h4{
+  margin: 5px 0 0 0;
+} 
+.location-contact ul{
+  list-style-type: none;
+} 
+.location-contact-more-info{
+  font-size: 13px;
+} 
+.location-fees{
+  margin-top: 30px;
+} 
+.location-schedule{
+  margin: 25px 0 0 25px;
+} 
+
