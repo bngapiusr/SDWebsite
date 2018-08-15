@@ -2752,6 +2752,16 @@ section.pricing {
   margin:10px 0 10px 0;
 }
 
+/* community outreach */
+.curriculum-header{
+  margin:10px 0 10px 0;
+}
+.curriculum-img{
+  margin:0 10px 10px 0;
+}
+.curriculum-img-drill{
+  margin:10px 0 0 0;
+}
 /* primary instructor */
 .primary-instructor-top{
   margin:10px 0 0 0;
