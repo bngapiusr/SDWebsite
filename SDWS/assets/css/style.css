@@ -2458,7 +2458,7 @@ a.active:after {
 */
 
  /* horizontal line / divider */
-hr.style13 {
+hr.divider {
     height: 10px;
     border: 0;
     box-shadow: 0 10px 10px -10px #8c8b8b inset;
@@ -2827,4 +2827,22 @@ section.pricing {
 .location-schedule{
   margin: 25px 0 0 25px;
 } 
+.location-schedule h3{
+  margin: 0 0 10px 0;
+}
+.location-Payment-Options{
+  margin: 15px 10px 30px 10px;
+} 
+.location-bottom{
+  margin: 0 0 10px 0;
+} 
+.location-top-bottom{
+  margin: 30px 0 30px 0;
+} 
 
+.location-trma{
+  margin: 10px 0 0 0;
+} 
+.location-trma h3{
+  margin: 0 0 10px 0;
+} 
