@@ -619,8 +619,12 @@ html {
     font-style: normal;
     position: relative;
     line-height: 22px;
-    text-align: center;
+    text-align: left;
     color: #222; }
+
+    .offer-level .title img{
+      margin: 0 10px 0 0;
+    }
 
 .philosophy-content {
   margin-bottom: 4em; }
