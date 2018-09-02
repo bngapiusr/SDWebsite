@@ -1253,6 +1253,8 @@ html {
     height: 5px;
     width: 44%;
     margin-left: 10px; }
+    .top-right-social ul,li {
+      margin-left: 10px; }
 
   .testimonial-content .dots-wrapper {
     margin-top: 20px;
