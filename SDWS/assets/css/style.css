@@ -159,7 +159,7 @@ html {
   left: 0;
   height: 100%;
   width: 100%;
-  background: url("https://static.pexels.com/photos/3247/nature-forest-industry-rails.jpg");
+  background: url("");
   background-size: cover; }
 
 .video-container .video {
@@ -176,9 +176,11 @@ html {
   left: 0;
   min-height: 100%;
   min-width: 100%;
-  background: black;
+  /* background: black; */
   opacity: 0.5; }
-
+  .video-top{
+    margin: 80px 0 0 0;
+  }
 .banner-content-slider {
   margin-top: 10em !important; }
 
